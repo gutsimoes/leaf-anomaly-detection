@@ -1,0 +1,17 @@
+# Dataset (not included: verify permissions before publishing)
+/data/
+*.zip
+
+# Training outputs and model weights
+/checkpoints/
+/imgs_progresso/
+*.pth
+*.pt
+
+# Python and Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local project specification
+/proj2--iia-2025-2.pdf
